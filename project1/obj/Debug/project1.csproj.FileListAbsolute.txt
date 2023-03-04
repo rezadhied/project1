@@ -1,0 +1,11 @@
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\bin\Debug\project1.exe.config
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\bin\Debug\project1.exe
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\bin\Debug\project1.pdb
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.Form1.resources
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.Properties.Resources.resources
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.csproj.GenerateResource.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.exe
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD3\project1\obj\Debug\project1.pdb
